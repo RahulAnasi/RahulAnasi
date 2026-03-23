@@ -42,7 +42,7 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 
-![Git & GitHub](https://img.shields.io/badge/Git & GitHub-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Git & GitHub](https://img.shields.io/badge/Git&GitHub-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
