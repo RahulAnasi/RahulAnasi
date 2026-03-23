@@ -12,10 +12,10 @@
 - Git & GitHub
 - YAML
 
-## 🚀 Projects
-- CI/CD Pipeline → (add link later)
-- Terraform Project → (add link later)
-- Kubernetes Project → (add link later)
+## 🚀 Projects 
+- Dockerize an app with CI/CD pipeline and deploy on AWS EC2
+- Project → (add link later)
+- Project → (add link later)
 
 ---
 
