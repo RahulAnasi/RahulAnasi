@@ -22,3 +22,11 @@
 ## 📫 Contact
 - Email: rahulanasibsc@gmaiL.com
 - LinkedIn: https://www.linkedin.com/in/rahul-anasi-385952368
+
+
+---
+
+## 📊 GitHub Stats
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=RahulAnasi&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulAnasi&layout=compact&theme=tokyonight)
