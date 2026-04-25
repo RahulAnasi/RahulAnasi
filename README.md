@@ -12,6 +12,7 @@
 - Git & GitHub
 - YAML
 - CI/CD
+- Kubernetes
 
 ## 🚀 Projects 
 - Production-Ready Cloud Application on AWS
