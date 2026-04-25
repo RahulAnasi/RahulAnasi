@@ -4,7 +4,10 @@ on:
   schedule:
     - cron: "0 */24 * * *"
   workflow_dispatch:
-
+      inputs:
+      test:
+        description: "test"
+        required: false
 jobs:
   generate:
     permissions:
