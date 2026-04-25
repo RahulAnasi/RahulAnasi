@@ -54,3 +54,7 @@
 
 
 
+---
+
+## 🐍 Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/RahulAnasi/RahulAnasi/output/github-contribution-grid-snake.svg)
