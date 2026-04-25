@@ -4,13 +4,14 @@
 - Aspiring Cloud & DevOps Engineer
 
 ## 🧰 Tech Stack
+- Networking
 - Linux
-- AWS
+- AWS Cloud
 - Docker
-- Kubernetes
 - Terraform
 - Git & GitHub
 - YAML
+- CI/CD
 
 ## 🚀 Projects 
 - Production-Ready Cloud Application on AWS
