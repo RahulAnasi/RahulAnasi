@@ -13,8 +13,7 @@
 - YAML
 
 ## 🚀 Projects 
-- Dockerize an app with CI/CD pipeline and deploy on AWS EC2
-- Project → (add link later)
+- Production-Ready Cloud Application on AWS
 - Project → (add link later)
 
 ---
