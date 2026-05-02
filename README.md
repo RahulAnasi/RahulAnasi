@@ -12,11 +12,9 @@
 - Git & GitHub
 - YAML
 - CI/CD
-- Kubernetes
 
 ## 🚀 Projects 
 - Production-Ready-NodeJs-App-AWS --> https://github.com/RahulAnasi/Production-Ready-NodeJs-App-AWS
-- Project → (add link later)
 
 ---
 
@@ -40,7 +38,6 @@
 ![AWS](https://img.shields.io/badge/AWS-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 
 ![Git & GitHub](https://img.shields.io/badge/Git&GitHub-F05032?style=for-the-badge&logo=git&logoColor=white)
