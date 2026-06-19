@@ -1,62 +1,97 @@
-# 🚀 Hi there, I'm Rahul Anasi!
+<h1 align="center">Hi 👋 I'm RahulAnasi</h1>
 
-## 👨‍💻 About Me
-- Aspiring Cloud & DevOps Engineer
+<h3 align="center">
+DevOps & Cloud Enthusiast | Kubernetes Learner | Building Real Projects 🚀
+</h3>
 
-## 🧰 Tech Stack
-- Networking
-- Linux
-- AWS Cloud
+<p align="center">
+I'm currently learning DevOps from scratch with a practical-first approach.
+My goal is to become job-ready for DevOps and Cloud roles through hands-on projects and real-world workflows.
+</p>
+
+---
+
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
+
+### 🔭 Currently Working On
+
+- Kubernetes Learning Journey
+- Docker Labs
+- Linux Fundamentals
+- GitHub Actions Practice
+
+### 🌱 Currently Learning
+
+- Linux Administration
 - Docker
+- Kubernetes
 - Terraform
-- Git & GitHub
-- YAML
+- AWS
 - CI/CD
+- Jenkins
 
-## 🚀 Projects 
-- Production-Ready-NodeJs-App-AWS --> https://github.com/RahulAnasi/Production-Ready-NodeJs-App-AWS
-- Cloud-Native Microservices Platform using Docker, Kubernetes & AWS -->  https://github.com/RahulAnasi/MicroServices-App-Project
+### 🎯 Current Goal
 
----
+Become job-ready for:
 
-## 📫 Contact
-- Email: rahulanasibsc@gmail.com
-- LinkedIn: https://www.linkedin.com/in/rahul-anasi-385952368
-
-
----
-
-## 📊 GitHub Stats
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=RahulAnasi&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulAnasi&layout=compact&theme=tokyonight)
-
-
-
-## 🧰 Tech Stack
-
-![Linux](https://img.shields.io/badge/Linux-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-
-
-![Git & GitHub](https://img.shields.io/badge/Git&GitHub-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-
+✔ DevOps Intern  
+✔ Cloud Intern  
+✔ Junior DevOps Engineer  
+✔ Junior Cloud Engineer  
 
 ---
 
-## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=RahulAnasi&theme=tokyonight)
+## 🛠 Languages and Tools
 
+<p align="left">
 
+<img src="https://skillicons.dev/icons?i=linux" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=docker" />
+<img src="https://skillicons.dev/icons?i=kubernetes" />
+<img src="https://skillicons.dev/icons?i=aws" />
+<img src="https://skillicons.dev/icons?i=terraform" />
+<img src="https://skillicons.dev/icons?i=jenkins" />
+<img src="https://skillicons.dev/icons?i=github" />
+
+</p>
 
 ---
 
-## 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/RahulAnasi/RahulAnasi/output/github-contribution-grid-snake.svg)
+## 📌 Featured Projects
 
+### 🐳  Production-Ready-NodeJs-App-AWS
+https://github.com/RahulAnasi/Production-Ready-NodeJs-App-AWS
 
-![](https://komarev.com/ghpvc/?username=RahulAnasi)
+### ☁ Cloud-Native Microservices Platform using Docker, Kubernetes & AWS
+https://github.com/RahulAnasi/MicroServices-App-Project
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME"/>
+
+</p>
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn: linkedin.com/in/rahul-anasi-385952368
+
+Email: rahulanasibsc@gmail.com
