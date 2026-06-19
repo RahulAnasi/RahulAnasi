@@ -58,6 +58,15 @@ Become job-ready for:
 
 ---
 
+## 🏆 Certifications
+
+### Completed
+
+- AWS Certified Solutions Architect Associate
+- Aruba Certified Switching Associate
+
+---
+
 ## 📌 Featured Projects
 
 ### 🐳  Production-Ready-NodeJs-App-AWS
