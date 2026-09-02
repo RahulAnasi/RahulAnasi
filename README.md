@@ -33,9 +33,7 @@ My goal is to become job-ready for DevOps and Cloud roles through hands-on proje
 ### 🎯 Current Goal
 
 Become job-ready for:
-
-✔ DevOps Intern  
-✔ Cloud Intern  
+  
 ✔ Junior DevOps Engineer  
 ✔ Junior Cloud Engineer  
 
