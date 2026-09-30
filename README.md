@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋 I'm RahulAnasi</h1>
 
 <h3 align="center">
-DevOps & Cloud Enthusiast | Kubernetes Learner | Building Real Projects 🚀
+DevOps & Infrastructure Engineer | AWS & OVHcloud | CI/CD, Containers & Automation 🚀
 </h3>
 
 <p align="center">
-I'm currently learning DevOps from scratch with a practical-first approach.
-My goal is to become job-ready for DevOps and Cloud roles through hands-on projects and real-world workflows.
+I work across infrastructure, Linux systems, cloud platforms, and application deployments.
+My hands-on experience includes Jenkins CI/CD, Docker, Kubernetes, monitoring, and operational automation.
+I continue to deepen my skills through practical projects that focus on secure delivery, troubleshooting, and reliable systems.
 </p>
 
 ---
@@ -15,27 +16,29 @@ My goal is to become job-ready for DevOps and Cloud roles through hands-on proje
 
 ### 🔭 Currently Working On
 
-- Kubernetes Learning Journey
-- Docker Labs
-- Linux Fundamentals
-- GitHub Actions Practice
+- Building a secure AI delivery platform lab with Jenkins, Docker, and Kubernetes
+- Practicing CI/CD workflows with vulnerability scanning, immutable image tags, health checks, and rollback
+- Strengthening Linux administration and Nginx reverse-proxy troubleshooting
+- Improving infrastructure monitoring with Prometheus, Grafana, and Node Exporter
+- Automating operational tasks with Bash and Python
 
 ### 🌱 Currently Learning
 
-- Linux Administration
-- Docker
-- Kubernetes
-- Terraform
-- AWS
-- CI/CD
-- Jenkins
+- Kubernetes deployments, Helm, RBAC, and troubleshooting
+- Terraform for repeatable cloud infrastructure
+- AWS architecture, IAM, networking, and serverless services
+- Jenkins pipelines, credentials management, and deployment approvals
+- Container hardening and vulnerability scanning with Trivy
+- Observability, incident investigation, and recovery practices
 
 ### 🎯 Current Goal
 
-Become job-ready for:
-  
-✔ Junior DevOps Engineer  
-✔ Junior Cloud Engineer  
+Grow as a DevOps and Cloud Engineer by building and operating systems with:
+
+✔ Secure and repeatable CI/CD pipelines  
+✔ Reliable cloud infrastructure and container deployments  
+✔ Useful monitoring, alerts, and operational runbooks  
+✔ Automation that reduces manual work and improves consistency  
 
 ---
 
@@ -44,15 +47,31 @@ Become job-ready for:
 <p align="left">
 
 <img src="https://skillicons.dev/icons?i=linux" />
+<img src="https://skillicons.dev/icons?i=bash" />
+<img src="https://skillicons.dev/icons?i=python" />
 <img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=gitlab" />
 <img src="https://skillicons.dev/icons?i=docker" />
 <img src="https://skillicons.dev/icons?i=kubernetes" />
 <img src="https://skillicons.dev/icons?i=aws" />
 <img src="https://skillicons.dev/icons?i=terraform" />
 <img src="https://skillicons.dev/icons?i=jenkins" />
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=githubactions" />
+<img src="https://skillicons.dev/icons?i=prometheus" />
+<img src="https://skillicons.dev/icons?i=grafana" />
+<img src="https://skillicons.dev/icons?i=nginx" />
+<img src="https://skillicons.dev/icons?i=postgres" />
 
 </p>
+
+- **Infrastructure & Cloud:** Linux, Windows, AWS, OVHcloud
+- **Containers & Orchestration:** Docker, Docker Compose, Kubernetes, Helm
+- **CI/CD & Version Control:** Jenkins, GitHub Actions, Git, GitHub, GitLab
+- **Infrastructure as Code & Automation:** Terraform, Bash, Python, YAML
+- **Monitoring:** Prometheus, Grafana, Node Exporter, Amazon CloudWatch
+- **Security & Delivery:** Trivy, container hardening, IAM, RBAC, secrets management, immutable image tagging
+- **Web & Data Operations:** Nginx, PostgreSQL and InfluxDB backup automation
 
 ---
 
@@ -60,17 +79,19 @@ Become job-ready for:
 
 ### Completed
 
-- AWS Certified Solutions Architect Associate
+- AWS Certified Solutions Architect – Associate
 - Aruba Certified Switching Associate
 
 ---
 
 ## 📌 Featured Projects
 
-### 🐳  Production-Ready-NodeJs-App-AWS
+### 🐳 Production-Ready Node.js App on AWS
+
 https://github.com/RahulAnasi/Production-Ready-NodeJs-App-AWS
 
-### ☁ Cloud-Native Microservices Platform using Docker, Kubernetes & AWS
+### ☁️ Cloud-Native Microservices Platform using Docker, Kubernetes & AWS
+
 https://github.com/RahulAnasi/MicroServices-App-Project
 
 ---
